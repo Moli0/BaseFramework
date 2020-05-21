@@ -1,0 +1,5 @@
+O:\MyTools\Tools\PublicCode\bin\Debug\PublicCode.dll
+O:\MyTools\Tools\PublicCode\bin\Debug\PublicCode.pdb
+O:\MyTools\Tools\PublicCode\obj\Debug\PublicCode.csprojAssemblyReference.cache
+O:\MyTools\Tools\PublicCode\obj\Debug\PublicCode.dll
+O:\MyTools\Tools\PublicCode\obj\Debug\PublicCode.pdb

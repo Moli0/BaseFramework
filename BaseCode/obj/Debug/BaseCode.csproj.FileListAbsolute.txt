@@ -1,0 +1,10 @@
+O:\MyTools\Tools\BaseCode\bin\Debug\BaseCode.dll
+O:\MyTools\Tools\BaseCode\bin\Debug\BaseCode.pdb
+O:\MyTools\Tools\BaseCode\obj\Debug\BaseCode.csprojAssemblyReference.cache
+O:\MyTools\Tools\BaseCode\obj\Debug\BaseCode.dll
+O:\MyTools\Tools\BaseCode\obj\Debug\BaseCode.pdb
+O:\MyTools\Tools\BaseCode\bin\Debug\Dapper.dll
+O:\MyTools\Tools\BaseCode\bin\Debug\PublicCode.dll
+O:\MyTools\Tools\BaseCode\bin\Debug\PublicCode.pdb
+O:\MyTools\Tools\BaseCode\bin\Debug\Dapper.xml
+O:\MyTools\Tools\BaseCode\obj\Debug\BaseCode.csproj.CopyComplete
